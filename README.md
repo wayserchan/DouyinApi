@@ -89,7 +89,6 @@ Douyin Api: search, user, video, live broadcast, delivery, topic, recommendation
 ### 免责声明
 ## If you have any questions, you can exchange and study, Telegram: @neo_galaxy
 ## https://t.me/neo_galaxy
-## Skype: live:.cid.b7d7ced6e23d0c41
 
 
 ## 抖音Api：热门话题推荐
